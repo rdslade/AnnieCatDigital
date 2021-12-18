@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AnnieCatDigital/static/css/main.6f572112.css",
-    "main.js": "/AnnieCatDigital/static/js/main.187b8c01.js",
-    "static/js/787.82e543ca.chunk.js": "/AnnieCatDigital/static/js/787.82e543ca.chunk.js",
-    "static/media/annie-main.JPG": "/AnnieCatDigital/static/media/annie-main.571c56115406d645705c.JPG",
-    "index.html": "/AnnieCatDigital/index.html",
-    "main.6f572112.css.map": "/AnnieCatDigital/static/css/main.6f572112.css.map",
-    "main.187b8c01.js.map": "/AnnieCatDigital/static/js/main.187b8c01.js.map",
-    "787.82e543ca.chunk.js.map": "/AnnieCatDigital/static/js/787.82e543ca.chunk.js.map"
+    "main.css": "/static/css/main.6f572112.css",
+    "main.js": "/static/js/main.5cd9c0a7.js",
+    "static/js/787.82e543ca.chunk.js": "/static/js/787.82e543ca.chunk.js",
+    "static/media/annie-main.JPG": "/static/media/annie-main.571c56115406d645705c.JPG",
+    "index.html": "/index.html",
+    "main.6f572112.css.map": "/static/css/main.6f572112.css.map",
+    "main.5cd9c0a7.js.map": "/static/js/main.5cd9c0a7.js.map",
+    "787.82e543ca.chunk.js.map": "/static/js/787.82e543ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f572112.css",
-    "static/js/main.187b8c01.js"
+    "static/js/main.5cd9c0a7.js"
   ]
 }
