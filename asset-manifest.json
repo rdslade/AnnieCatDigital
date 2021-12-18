@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rdslade/AnnieCatDigital.git/static/css/main.073c9b0a.css",
+    "main.js": "/rdslade/AnnieCatDigital.git/static/js/main.7866e3ee.js",
+    "static/js/787.82e543ca.chunk.js": "/rdslade/AnnieCatDigital.git/static/js/787.82e543ca.chunk.js",
+    "static/media/logo.svg": "/rdslade/AnnieCatDigital.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rdslade/AnnieCatDigital.git/index.html",
+    "main.073c9b0a.css.map": "/rdslade/AnnieCatDigital.git/static/css/main.073c9b0a.css.map",
+    "main.7866e3ee.js.map": "/rdslade/AnnieCatDigital.git/static/js/main.7866e3ee.js.map",
+    "787.82e543ca.chunk.js.map": "/rdslade/AnnieCatDigital.git/static/js/787.82e543ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7866e3ee.js"
+  ]
+}
