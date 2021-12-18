@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rdslade/AnnieCatDigital.git/static/css/main.6f572112.css",
-    "main.js": "/rdslade/AnnieCatDigital.git/static/js/main.d8cb8e44.js",
-    "static/js/787.82e543ca.chunk.js": "/rdslade/AnnieCatDigital.git/static/js/787.82e543ca.chunk.js",
-    "static/media/annie-main.JPG": "/rdslade/AnnieCatDigital.git/static/media/annie-main.571c56115406d645705c.JPG",
-    "index.html": "/rdslade/AnnieCatDigital.git/index.html",
-    "main.6f572112.css.map": "/rdslade/AnnieCatDigital.git/static/css/main.6f572112.css.map",
-    "main.d8cb8e44.js.map": "/rdslade/AnnieCatDigital.git/static/js/main.d8cb8e44.js.map",
-    "787.82e543ca.chunk.js.map": "/rdslade/AnnieCatDigital.git/static/js/787.82e543ca.chunk.js.map"
+    "main.css": "/AnnieCatDigital/static/css/main.6f572112.css",
+    "main.js": "/AnnieCatDigital/static/js/main.187b8c01.js",
+    "static/js/787.82e543ca.chunk.js": "/AnnieCatDigital/static/js/787.82e543ca.chunk.js",
+    "static/media/annie-main.JPG": "/AnnieCatDigital/static/media/annie-main.571c56115406d645705c.JPG",
+    "index.html": "/AnnieCatDigital/index.html",
+    "main.6f572112.css.map": "/AnnieCatDigital/static/css/main.6f572112.css.map",
+    "main.187b8c01.js.map": "/AnnieCatDigital/static/js/main.187b8c01.js.map",
+    "787.82e543ca.chunk.js.map": "/AnnieCatDigital/static/js/787.82e543ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f572112.css",
-    "static/js/main.d8cb8e44.js"
+    "static/js/main.187b8c01.js"
   ]
 }
