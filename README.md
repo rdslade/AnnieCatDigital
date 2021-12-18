@@ -1,3 +1,3 @@
 # AnnieCatDigital
 
-Live at [anniecat.digital](anniecat.digital)!
+Live at [anniecat.digital](https://anniecat.digital)!
